@@ -11,6 +11,8 @@ Coming all the way from Nepal, I am a pursuing Bachelors in Computer Science wit
 
 I am seeking the role of a Software Developer where I can contribute towards the organizational goals through my analytical skills and knowledge acquired by working on real-life projects using the JavaScript MERN Stack.
 
+As a Software Developer, I would bring these skills to develop software that exceeds the expectations of clients and customers and drive real business results. With each new experience, I am eagerly looking forward to expanding my skills and knowledge.
+
 
 
 <!---
