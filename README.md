@@ -1,5 +1,7 @@
 👋 Hi, I’m @prajun77
 
+**Full Stack Developer | MERN Stack**
+
 I am planning to gain more real-life coding experience by working on various projects. And I am interested in collaborating with other computer scientists.
 
 Coming all the way from Nepal, I am a pursuing Bachelors in Computer Science with minor in Mathematics from the University of Alabama at Birmingham.
