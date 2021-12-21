@@ -1,4 +1,4 @@
-👋 Hi, I’m @prajun77
+👋 Hi, I’m Prajun Trital
 
 **Full Stack Developer | MERN Stack**
 
