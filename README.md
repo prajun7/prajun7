@@ -17,8 +17,7 @@ Feel free to learn more about my portfolio via https://www.linkedin.com/in/praju
 
 As a Software Developer, I would bring these skills to develop software that exceeds the expectations of clients and customers and drive real business results. With each new experience, I am eagerly looking forward to expanding my skills and knowledge.
 
-I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, cooking and traveling.
-
+I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling.
 
 
 
