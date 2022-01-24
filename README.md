@@ -13,7 +13,7 @@ Originallly from Nepal, I am a recent graduate of the University of Alabama at B
 
 I am seeking the role of a Software Developer where I can contribute towards the organizational goals through my analytical skills and knowledge acquired by working on real-life projects using the JavaScript **MERN Stack.**
 
-Feel free to learn more about my portfolio via https://www.linkedin.com/in/prajuntrital/
+Feel free to learn more about my portfolio via [Linkedln](https://www.linkedin.com/in/prajuntrital/)
 
 As a Software Developer, I would bring these skills to develop software that exceeds the expectations of clients and customers and drive real business results. With each new experience, I am eagerly looking forward to expanding my skills and knowledge.
 
