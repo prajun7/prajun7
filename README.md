@@ -6,10 +6,10 @@ I am planning to gain more real-life coding experience by working on various pro
 
 Originallly from Nepal, I am a recent graduate of the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics. I have learned the importance of applying classical strategies to modern-day projects. 
 
-- Proficient Languages: Java, JavaScript, Python, C++, MATLAB, Scheme 
-- Web Frameworks: Express.js, Flask
+- Proficient Languages: Java, JavaScript, Python, MATLAB, Scheme
+- Frameworks: Node.js, Express.js, React.js, Flask
 - Databases: PostgreSQL, MongoDB
-- Technologies: Git, Postman, pgAdmin, MongoDB Compass
+- Technologies: Git, Postman, pgAdmin, MongoDB Compass, Firebase
 
 I am seeking the role of a Software Developer where I can contribute towards the organizational goals through my analytical skills and knowledge acquired by working on real-life projects using the JavaScript **MERN Stack.**
 
