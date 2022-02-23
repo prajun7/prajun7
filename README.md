@@ -9,16 +9,18 @@ Originallly from Nepal, I am a recent graduate of the University of Alabama at B
 - Proficient Languages: Java, JavaScript, Python, MATLAB, Scheme
 - Frameworks: Node.js, Express.js, React.js, Flask
 - Databases: PostgreSQL, MongoDB
-- Technologies: Git, Postman, pgAdmin, MongoDB Compass, Firebase
+- Technologies: Git, Postman, pgAdmin, MongoDB Compass, Firebase, AWS
 
 I am seeking the role of a Software Developer where I can contribute towards the organizational goals through my analytical skills and knowledge acquired by working on real-life projects using the JavaScript **MERN Stack.**
 
-Feel free to learn more about my portfolio via 👉 [Linkedln](https://www.linkedin.com/in/prajuntrital/) 💻
+Feel free to learn more about my portfolio via 👉👉 [Linkedln](https://www.linkedin.com/in/prajuntrital/) 🚀
 
 As a Software Developer, I would bring these skills to develop software that exceeds the expectations of clients and customers and drive real business results. With each new experience, I am eagerly looking forward to expanding my skills and knowledge.
 
-I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling.Also, I loved to solve leetcode problems. My leetcode profile is [Leetcode](https://leetcode.com/prajun7/)
-Check my progress in Leetcode here 👉 [Progress]()
+I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling.<br>
+Also, I loved to solve leetcode problems.<br>
+My leetcode profile is 👉👉 [Leetcode](https://leetcode.com/prajun7/) 🚀 <br>
+Check my progress in Leetcode here 👉 [Progress](https://github.com/prajun77/Leetcode) 🚀 <br>
 
 
 
