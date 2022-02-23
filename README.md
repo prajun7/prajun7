@@ -8,8 +8,8 @@ Originallly from Nepal, I am a recent graduate of the University of Alabama at B
 
 - Proficient Languages: Java, JavaScript, Python, MATLAB, Scheme
 - Frameworks: Node.js, Express.js, React.js, Flask
-- Databases: PostgreSQL, MongoDB
-- Technologies: Git, Postman, pgAdmin, MongoDB Compass, Firebase, AWS
+- Databases: [PostgreSQL](https://www.coursera.org/account/accomplishments/certificate/372LP42RNZGN), MongoDB
+- Technologies: Git, Postman, pgAdmin, MongoDB Compass, Firebase, [AWS](https://www.coursera.org/account/accomplishments/certificate/CHNARFAEJCMZ)
 
 I am seeking the role of a Software Developer where I can contribute towards the organizational goals through my analytical skills and knowledge acquired by working on real-life projects using the JavaScript **MERN Stack.**
 
