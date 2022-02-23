@@ -18,6 +18,7 @@ Feel free to learn more about my portfolio via 👉 [Linkedln](https://www.linke
 As a Software Developer, I would bring these skills to develop software that exceeds the expectations of clients and customers and drive real business results. With each new experience, I am eagerly looking forward to expanding my skills and knowledge.
 
 I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling.Also, I loved to solve leetcode problems. My leetcode profile is [Leetcode](https://leetcode.com/prajun7/)
+Check my progress in Leetcode here 👉 [Progress]()
 
 
 
