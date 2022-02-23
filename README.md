@@ -29,11 +29,11 @@ Prepared and collected teaching material to help students better understand the 
 As a Software Developer, I would bring these skills to develop software that exceeds the expectations of clients and customers and drive real business results. With each new experience, I am eagerly looking forward to expanding my skills and knowledge.
 
 I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling.<br>
-Some Projects are:
-- **[HomeIOT]()**
-- **[StudySpotz]()**
-- **[FoodRanger]()**
-- **[Ranch Management Software]()**
+Some of my Projects are:
+- **[HomeIOT](https://github.com/prajun77/HomeLoT)**
+- **[StudySpotz](https://github.com/prajun77/StudySpotz)**
+- **[FoodRanger](https://github.com/prajun77/FoodRanger_MERN_Stack)**
+- **[Ranch Management Software](https://github.com/prajun77/Ranch-Management-Software)**
 
 Also, I loved to solve leetcode problems.<br>
 My leetcode profile is 👉👉 [Leetcode](https://leetcode.com/prajun7/) 🚀 <br>
