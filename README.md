@@ -17,14 +17,10 @@ Feel free to learn more about my portfolio via 👉👉 [Linkedln](https://www.l
 
 **Work Experiences**
 - **[Algorizin](https://algorizin.us/)**<br> 
-Developed a web food ordering app called [HamroChulo](http://hamrochulo.com/) that allows Nepali users to search and find restaurants based on the location and name; authenticated users can add reviews and add food items to their cart.<br>
-Developed the backend using Node.js, Express.js and maintained 15+ REST APIs to serve data to the front-end application in JSON format; developed the frontend using React.js and built reusable React components that were used across multiple pages.<br>
-Adopted MongoDB for data storage, designed 5 different schemas, and implemented data access service to Create, Read, Update and Delete data (CRUD) 
+Developed a web food ordering app called [HamroChulo](http://hamrochulo.com/) using the MERN stack.<br>
 
-- **The University of Alabama at Birmingham**<br>
+- **[The University of Alabama at Birmingham](https://www.uab.edu/home/)**<br>
 Tutored and supported students individually and in groups of up to 55 by reteaching coding concepts in OOP, Java, and Python<br>
-Graded assignments and tests, documented results, and informed the professor of students’ performance which helped the professor to keep track of underachieving students<br>
-Prepared and collected teaching material to help students better understand the programming concepts that resulted in a 7% average grade increase for the class<br>
  
 As a Software Developer, I would bring these skills to develop software that exceeds the expectations of clients and customers and drive real business results. With each new experience, I am eagerly looking forward to expanding my skills and knowledge.
 
