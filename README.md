@@ -11,26 +11,14 @@ Originallly from Nepal, I am a graduate student of the University of Alabama at 
 - **Databases:** [PostgreSQL](https://www.coursera.org/account/accomplishments/certificate/372LP42RNZGN), MongoDB
 - **Technologies:** Git, Postman, pgAdmin, MongoDB Compass, Firebase, [AWS](https://www.coursera.org/account/accomplishments/certificate/CHNARFAEJCMZ)
 
-I am seeking the role of a Software Developer where I can contribute towards the organizational goals through my analytical skills and knowledge acquired by working on real-life projects using the JavaScript **MERN Stack.**
+I am familiar with **MERN Stack**
 
 Feel free to learn more about my portfolio via 👉👉 [Linkedln](https://www.linkedin.com/in/prajuntrital/) 🚀
-
-**Work Experiences**
-- **[Algorizin](https://algorizin.us/)**<br> 
-Developed a web food ordering app called [HamroChulo](http://hamrochulo.com/) using the MERN stack.<br>
-
-- **[The University of Alabama at Birmingham](https://www.uab.edu/home/)**<br>
-Tutored and supported students individually and in groups of up to 55 by reteaching coding concepts in OOP, Java, and Python<br>
  
 As a Software Developer, I would bring these skills to develop software that exceeds the expectations of clients and customers and drive real business results. With each new experience, I am eagerly looking forward to expanding my skills and knowledge.
 
 I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling.<br>
-Some of my Projects are:
-- **[HomeIOT](https://github.com/prajun77/HomeLoT)**
-- **[StudySpotz](https://github.com/prajun77/StudySpotz)**
-- **[FoodRanger](https://github.com/prajun77/FoodRanger_MERN_Stack)**
-- **[Ranch Management Software](https://github.com/prajun77/Ranch-Management-Software)**
-
+I love to play soccer, volleyball, and table tennis.<br>
 Also, I loved to solve leetcode problems.<br>
 My leetcode profile is 👉👉 [Leetcode](https://leetcode.com/prajun7/) 🚀 <br>
 Check my progress in Leetcode here 👉 [Progress](https://github.com/prajun77/Leetcode) 🚀 <br>
