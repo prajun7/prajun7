@@ -20,7 +20,7 @@ As a Software Developer, I would bring these skills to develop software that exc
 I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling.<br>
 I love to play soccer, volleyball, and table tennis.<br>
 Also, I loved to solve leetcode problems.<br>
-My leetcode profile is 👉👉 [Leetcode](https://leetcode.com/prajun7/) 🚀 <br>
+My leetcode profile 👉👉 [Leetcode](https://leetcode.com/prajun7/) 🚀 <br>
 Check my progress in Leetcode here 👉 [Progress](https://github.com/prajun77/Leetcode) 🚀 <br>
 
 
