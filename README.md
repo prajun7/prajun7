@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=35&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+I'm+a+Software+Developer;I+like+to+solve+DSA+problems;MERN+Stack;Leetcode)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=blue&size=35&lines=I'm+a+Software+Developer;I+like+to+solve+DSA+problems;MERN+Stack;Leetcode)](https://git.io/typing-svg)
 </div>
 
 I want to gain more real-life coding experience by working on various projects. And I am interested in collaborating with other computer scientists.
@@ -31,6 +31,30 @@ Originallly from Nepal :nepal:, I am a graduate student of the University of Ala
       <img alt="LeetCode Stat Card" src="https://leetcode.card.workers.dev/prajun_t?theme=auto&font=baloo&extension=null" width="400"/>
     </a>
 </p>
+
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> My Stack
+![badge-java](https://img.shields.io/badge/code-java-blue?style=for-the-badge&logo=java&logoColor=white&labelColor=grey)
+![badge-javascript](https://img.shields.io/badge/code-javascript-00FFFD?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
+![badge-python](https://img.shields.io/badge/code-python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=grey)
+
+![badge-react](https://img.shields.io/badge/framework-react-00FFFD?style=for-the-badge&logo=react&logoColor=white&labelColor=21223e)
+![badge-flask](https://img.shields.io/badge/framework-flask-blue?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
+![badge-node](https://img.shields.io/badge/code-node_js-00FFFD?style=for-the-badge&logo=npm&logoColor=white&labelColor=grey)
+
+![badge-mongo](https://img.shields.io/badge/database-mongodb-00FFFD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=grey)
+![badge-postgresql](https://img.shields.io/badge/database-postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
+
+![badge-mac](https://img.shields.io/badge/os-mac-blue?style=for-the-badge&logo=apple&logoColor=white&labelColor=21223e)
+![badge-aws](https://img.shields.io/badge/cloud-aws-blue?style=for-the-badge&logo=amazon&logoColor=white&labelColor=grey)
+![badge-vscode](https://img.shields.io/badge/editor-vscode-00FFFD?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
+
+
+
+
+
+
+
+
 
 
 ## 🏆 GitHub Trophy
