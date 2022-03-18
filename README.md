@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Prajun Trital
+<div align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <strong>Hi, I’m Prajun Trital </strong>
+</div>
 
 <div align="center">
   
