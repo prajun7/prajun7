@@ -11,7 +11,7 @@ Originallly from Nepal, I am a graduate student of the University of Alabama at 
 - **Databases:** [PostgreSQL](https://www.coursera.org/account/accomplishments/certificate/372LP42RNZGN), MongoDB
 - **Technologies:** Git, Postman, pgAdmin, MongoDB Compass, Firebase, [AWS](https://www.coursera.org/account/accomplishments/certificate/CHNARFAEJCMZ)
 
-Feel free to learn more about my portfolio via 👉👉 [Linkedln](https://www.linkedin.com/in/prajuntrital/) 🚀 or prajuncs@gmail.com 🚀
+Feel free to connect with me via 👉👉 [Linkedln](https://www.linkedin.com/in/prajuntrital/) 🚀 or prajuncs@gmail.com 🚀
  
 As a Software Developer, I would bring these skills to develop software that exceeds the expectations of clients and customers and drive real business results. With each new experience, I am eagerly looking forward to expanding my skills and knowledge.
 
