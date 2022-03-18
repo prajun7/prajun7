@@ -21,7 +21,7 @@ Originallly from Nepal :nepal:, I am a graduate student of the University of Ala
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working at **ProNvest** as a **Software Developer**
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
-- 📫 Reach me at: **prajuncs@gmail.com**
+- 📫 Reach me at **prajuncs@gmail.com**
 - ⚡ I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling
 - 🏋️‍ I love to play soccer ⚽️ , volleyball 🏐 , and table tennis 🏓
 - <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I loved to solve [Leetcode](https://leetcode.com/prajun_t/)  problems in my free time. My [Progress](https://github.com/prajun77/Leetcode) so far<br>
@@ -41,20 +41,12 @@ Originallly from Nepal :nepal:, I am a graduate student of the University of Ala
 ![badge-flask](https://img.shields.io/badge/framework-flask-blue?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
 ![badge-node](https://img.shields.io/badge/code-node_js-00FFFD?style=for-the-badge&logo=npm&logoColor=white&labelColor=grey)
 
-![badge-mongo](https://img.shields.io/badge/database-mongodb-00FFFD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=grey)
 ![badge-postgresql](https://img.shields.io/badge/database-postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
+![badge-mongo](https://img.shields.io/badge/database-mongodb-00FFFD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=grey)
 
-![badge-mac](https://img.shields.io/badge/os-mac-blue?style=for-the-badge&logo=apple&logoColor=white&labelColor=21223e)
+![badge-mac](https://img.shields.io/badge/os-mac-00FFFD?style=for-the-badge&logo=apple&logoColor=white&labelColor=21223e)
 ![badge-aws](https://img.shields.io/badge/cloud-aws-blue?style=for-the-badge&logo=amazon&logoColor=white&labelColor=grey)
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-00FFFD?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
-
-
-
-
-
-
-
-
 
 
 ## 🏆 GitHub Trophy
