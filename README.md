@@ -2,14 +2,19 @@
 
 <div align="center">
   
-  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=35&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+I'm+a+Software+Developer;I+like+to+solve+DSA+problems;MERN+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=35&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+I'm+a+Software+Developer;I+like+to+solve+DSA+problems;MERN+Stack;Leetcode)](https://git.io/typing-svg)
 </div>
 
-**MERN Stack**
+I want to gain more real-life coding experience by working on various projects. And I am interested in collaborating with other computer scientists.
 
-I am planning to gain more real-life coding experience by working on various projects. And I am interested in collaborating with other computer scientists.
+<p align="center">
+  <img src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="100px">
+</p>
+
+<p align="center">
+  <strong> | Experience with Full Stack | MERN-Stack |  </strong>
+</p>
+
 
 Originallly from Nepal :nepal:, I am a graduate student of the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics.
 
