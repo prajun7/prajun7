@@ -4,10 +4,10 @@
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=35&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+I'm+a+Software+Developer;I+like+to+solve+DSA+problems;Full+Stack+Developer;MERN+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=35&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+I'm+a+Software+Developer;I+like+to+solve+DSA+problems;MERN+Stack)](https://git.io/typing-svg)
 </div>
 
-**Full Stack Developer | MERN Stack**
+**MERN Stack**
 
 I am planning to gain more real-life coding experience by working on various projects. And I am interested in collaborating with other computer scientists.
 
