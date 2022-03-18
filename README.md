@@ -1,4 +1,4 @@
-👋 Hi, I’m Prajun Trital
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Prajun Trital
 
 **Full Stack Developer | MERN Stack**
 
@@ -12,16 +12,14 @@ Originallly from Nepal, I am a graduate student of the University of Alabama at 
 - 📫 Reach me at: **prajuncs@gmail.com**
 - ⚡ I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling
 - 🏋️‍ I love to play soccer ⚽️ , volleyball 🏐 , and table tennis 🏓
-
-Also, I loved to solve leetcode problems.<br>
-My leetcode profile 👉👉 [Leetcode](https://leetcode.com/prajun_t/) 🚀 <br>
-Check my progress in Leetcode here 👉 [Progress](https://github.com/prajun77/Leetcode) 🚀 <br>
+- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I loved to solve [Leetcode](https://leetcode.com/prajun_t/)  problems in my free time. My [Progress](https://github.com/prajun77/Leetcode) so far<br>
 
 <p align="center">
-    <a href="https://github.com/prajun7/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prajun Trital streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prajun7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://leetcode.card.workers.dev/prajun_t?theme=dark&font=baloo&extension=null">
+      <img alt="LeetCode Stat Card" src="https://leetcode.card.workers.dev/prajun_t?theme=auto&font=baloo&extension=null" width="400"/>
     </a>
 </p>
+
 
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=prajun7&column=8)](https://github-profile-trophy.vercel.app/?username=prajun7&column=8)
@@ -32,10 +30,15 @@ Check my progress in Leetcode here 👉 [Progress](https://github.com/prajun77/L
   <a href="https://github.com/prajun7/github-readme-stats"><img alt="Prajun Trital Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajun7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
+
+<p align="center">
+    <a href="https://github.com/prajun7/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prajun Trital streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prajun7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 
 <a href="https://github.com/prajun7/github-readme-activity-graph"><img alt="Prajun Trital Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prajun7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
