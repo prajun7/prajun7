@@ -1,10 +1,17 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Prajun Trital
 
+<div align="center">
+  
+  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=35&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+I'm+a+Software+Developer;I+like+to+solve+DSA+problems;Full+Stack+Developer;MERN+Stack)](https://git.io/typing-svg)
+</div>
+
 **Full Stack Developer | MERN Stack**
 
 I am planning to gain more real-life coding experience by working on various projects. And I am interested in collaborating with other computer scientists.
 
-Originallly from Nepal, I am a graduate student of the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics. I have learned the importance of applying classical strategies to modern-day projects. 
+Originallly from Nepal :nepal:, I am a graduate student of the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics.
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working at **ProNvest** as a **Software Developer**
