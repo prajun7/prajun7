@@ -4,10 +4,10 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=blue&size=35&lines=I'm+a+Software+Developer;I+like+to+solve+DSA+problems;MERN+Stack;Leetcode)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=blue&size=35&lines=I'm+a+Software+Engineer;I+like+to+solve+DSA+problems;MERN+Stack;Leetcode)](https://git.io/typing-svg)
 </div>
 
-I want to gain more real-life coding experience by working on various projects. And I am interested in collaborating with other computer scientists.
+I want to gain more real-life coding experience by working on various projects. And I am interested in collaborating with other developers.
 
 <p align="center">
   <img src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="100px">
@@ -21,7 +21,7 @@ I want to gain more real-life coding experience by working on various projects. 
 Originallly from Nepal :nepal:, I am a graduate student of the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics.
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working at **ProNvest** as a **Software Developer**
+- 🔭 I’m currently working at **ProNvest** as a **Software Engineer**
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 - 📫 Reach me at **prajuncs@gmail.com**
 - ⚡ I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling
