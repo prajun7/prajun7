@@ -82,8 +82,8 @@ Originallly from Nepal :nepal:, I am a graduate student of the University of Ala
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/prajun-trital-b51626163/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:prajuncs@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 <a href = "https://www.instagram.com/prajun_t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:prajuncs@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
 </p>
 
