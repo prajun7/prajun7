@@ -21,7 +21,7 @@ I want to gain more real-life coding experience by working on various projects. 
 Originallly from Nepal :nepal:, I am a graduate student of the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics.
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working at **ProNvest** as a **Software Engineer**
+- 🔭 I’m currently working at **[ProNvest](https://www.pronvest.com/)** as a **Software Engineer**
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 - 📫 Reach me at **prajuncs@gmail.com**
 - ⚡ I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling
