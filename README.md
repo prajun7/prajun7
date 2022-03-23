@@ -86,7 +86,7 @@ Originallly from Nepal :nepal:, I am a graduate student of the University of Ala
 <a href = "https://www.instagram.com/prajun_t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <a href = "https://twitter.com/prajun_t"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
-</p>
+ </p>
 
 <!---
 prajun77/prajun77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
