@@ -72,7 +72,6 @@ Originallly from Nepal :nepal:, I am a graduate student of the University of Ala
     </a>
 </p>
 
-
 <a href="https://github.com/prajun7/github-readme-activity-graph"><img alt="Prajun Trital Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prajun7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
