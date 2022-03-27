@@ -52,7 +52,6 @@ Originallly from Nepal :nepal:, I am a graduate student of the University of Ala
 ![badge-aws](https://img.shields.io/badge/cloud-aws-00FFFD?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-00FFFD?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
 
-
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=prajun7&column=8)](https://github-profile-trophy.vercel.app/?username=prajun7&column=8)
 
@@ -82,7 +81,7 @@ Originallly from Nepal :nepal:, I am a graduate student of the University of Ala
 <a href = "https://www.linkedin.com/in/prajun-trital-b51626163/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:prajuncs@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 <a href = "https://www.instagram.com/prajun_t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href = "https://twitter.com/prajun_t"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/prajun_t"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
  </p>
 
