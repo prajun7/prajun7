@@ -17,7 +17,7 @@ I want to gain more real-life coding experience by working on various projects. 
   <strong> | Experience with Full Stack | MERN-Stack |  </strong>
 </p>
 
-Originallly from Nepal :nepal:, I am a graduate student of the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics.
+Originallly from Nepal :nepal:, I am an undergraduate student of the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics.
 
 <a href="https://gpvc.arturio.dev/prajun7" align="center">![Profile views](https://gpvc.arturio.dev/prajun7)</a>
 
