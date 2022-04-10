@@ -81,7 +81,6 @@ Originallly from Nepal :nepal:, I am an undergraduate student of the University 
 <a href = "mailto:prajuncs@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 <a href = "https://www.instagram.com/prajun_t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://twitter.com/prajun_t"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
  </p>
 
 <!---
