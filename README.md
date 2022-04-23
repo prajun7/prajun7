@@ -48,7 +48,7 @@ Originallly from Nepal :nepal:, I am an undergraduate student of the University 
 ![badge-mongo](https://img.shields.io/badge/database-mongodb-00FFFD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=21223e)
 
 ![badge-mac](https://img.shields.io/badge/os-mac-00FFFD?style=for-the-badge&logo=apple&logoColor=white&labelColor=21223e)
-![badge-aws](https://img.shields.io/badge/cloud-aws-00FFFD?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
+<!-- AWS BADGE ![badge-aws](https://img.shields.io/badge/cloud-aws-00FFFD?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e) -->
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-00FFFD?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
 
 ## 🏆 GitHub Trophy
