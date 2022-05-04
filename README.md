@@ -13,9 +13,9 @@ I want to gain more real-life coding experience by working on various projects. 
   <img src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="100px">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <strong> | Experience with Full Stack | MERN-Stack |  </strong>
-</p>
+</p> -->
 
 Originallly from Nepal :nepal:, I am an undergraduate student of the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics.
 
