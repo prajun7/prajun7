@@ -38,12 +38,13 @@ Originallly from Nepal :nepal:, I am an undergraduate student of the University 
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> My Stack
 ![badge-java](https://img.shields.io/badge/code-java-00FFFD?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
-![badge-javascript](https://img.shields.io/badge/code-javascript-00FFFD?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
+![badge-typescript](https://img.shields.io/badge/code-typescript-00FFFD?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
 ![badge-python](https://img.shields.io/badge/code-python-00FFFD?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
 
 ![badge-react](https://img.shields.io/badge/framework-react-00FFFD?style=for-the-badge&logo=react&logoColor=white&labelColor=21223e)
-![badge-flask](https://img.shields.io/badge/framework-flask-00FFFD?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
+![badge-asp.net](https://img.shields.io/badge/framework-asp.net-00FFFD?style=for-the-badge&logo=aspnet&logoColor=white&labelColor=21223e)
 ![badge-node](https://img.shields.io/badge/code-node_js-00FFFD?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
+![badge-flask](https://img.shields.io/badge/framework-flask-00FFFD?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
 
 ![badge-postgresql](https://img.shields.io/badge/database-postgresql-00FFFD?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
 ![badge-mongo](https://img.shields.io/badge/database-mongodb-00FFFD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=21223e)
