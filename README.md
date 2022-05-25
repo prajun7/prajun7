@@ -4,8 +4,8 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=blue&size=35&center=true&vCenter=true&width=650&lines=I'm+a+Software+Engineer;Always+willing+to+learn+new+skills;I+like+to+solve+DSA+problems;MERN+Stack;Leetcode)](https://git.io/typing-svg)
-</div>
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=blue&size=35&center=true&vCenter=true&width=650&lines=I'm+a+Software+Engineer;Always+willing+to+learn+new+skills;I+like+to+solve+DSA+problems;MERN+Stack;Leetcode)](https://git.io/typing-svg)
+</div> -->
 
 I want to gain more real-life coding experience by working on various projects. And I am interested in collaborating with other developers.
 
@@ -19,9 +19,9 @@ I want to gain more real-life coding experience by working on various projects. 
 
 Originallly from Nepal :nepal:, I am an undergraduate student of the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics.
 
-<a href="https://gpvc.arturio.dev/prajun7" align="center">![Profile views](https://gpvc.arturio.dev/prajun7)</a>
+<!-- <a href="https://gpvc.arturio.dev/prajun7" align="center">![Profile views](https://gpvc.arturio.dev/prajun7)</a> -->
 
-## 🙋‍♂️ About Me
+<!-- ## 🙋‍♂️ About Me
 - 🔭 I’m currently working at **[ProNvest](https://www.pronvest.com/)** as a **Software Engineer**
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 - 📫 Reach me at **prajuncs@gmail.com**
@@ -33,7 +33,7 @@ Originallly from Nepal :nepal:, I am an undergraduate student of the University 
     <a href="https://leetcode.card.workers.dev/prajun_t?theme=dark&font=baloo&extension=null">
       <img alt="LeetCode Stat Card" src="https://leetcode.card.workers.dev/prajun_t?theme=auto&font=baloo&extension=null" width="400"/>
     </a>
-</p>
+</p> -->
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> My Stack
 ![badge-java](https://img.shields.io/badge/code-java-00FFFD?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
@@ -51,7 +51,7 @@ Originallly from Nepal :nepal:, I am an undergraduate student of the University 
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-00FFFD?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
 <!-- AWS BADGE ![badge-aws](https://img.shields.io/badge/cloud-aws-00FFFD?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e) -->
 
-## 🏆 GitHub Trophy
+<!-- ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=prajun7&column=8)](https://github-profile-trophy.vercel.app/?username=prajun7&column=8)
 
 ## 📊 My Github Stats
@@ -72,7 +72,7 @@ Originallly from Nepal :nepal:, I am an undergraduate student of the University 
 <a href="https://github.com/prajun7/github-readme-activity-graph"><img alt="Prajun Trital Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prajun7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 <p align="left">
