@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <strong>Hi, I’m Prajun Trital </strong>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> <strong>Hi, I’m Prajun Trital </strong>
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 I want to gain more real-life coding experience by working on various projects. And I am interested in collaborating with other developers.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="100px" height="100px">
 </p>
 
 <!-- COMMENTED OUT <p align="center">
@@ -38,7 +38,7 @@ Originallly from Nepal :nepal:, I am an undergraduate student of the University 
   
 <!--   Use this for gettimg icons for MY STACK, https://simpleicons.org/?q=c%23 -->
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> My Stack
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> My Stack
 ![badge-java](https://img.shields.io/badge/code-java-00FFFD?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
 ![badge-typescript](https://img.shields.io/badge/code-typescript-00FFFD?style=for-the-badge&logo=typescript&logoColor=white&labelColor=21223e)
 ![badge-c sharp](https://img.shields.io/badge/code-c%20sharp-00FFFD?style=for-the-badge&logo=csharp&logoColor=white&labelColor=21223e)
@@ -79,7 +79,8 @@ Originallly from Nepal :nepal:, I am an undergraduate student of the University 
 <br/>
 <br/> COMMENTED OUT UP TO HERE-->
 
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="60px"> 
+<!-- ## Let's Connect -->
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/prajun-trital-b51626163/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
