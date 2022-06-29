@@ -17,7 +17,8 @@ I want to gain more real-life coding experience by working on various projects. 
   <strong> | Experience with Full Stack | MERN-Stack |  </strong>
 </p> -->
 
-Originallly from Nepal :nepal:
+Originallly from Nepal :nepal:<br>
+Graduated from the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics.
   
 <!--   , I am an undergraduate student of the University of Alabama at Birmingham with a Bachelor's in Computer Science and a minor in Mathematics.<br>
   🔭 I’m currently working at **[ProNvest](https://www.pronvest.com/)** as a **Software Engineer** -->
