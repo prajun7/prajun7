@@ -12,6 +12,7 @@ I want to gain more real-life coding experience by working on various projects. 
 <p align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px" height="100px">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px" height="100px"> -->
+<!--   <img src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="100px" height="100px"> -->
 </p>
 
 <!-- COMMENTED OUT <p align="center">
