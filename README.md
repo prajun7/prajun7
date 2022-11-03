@@ -32,7 +32,7 @@ Graduated from the University of Alabama at Birmingham with a Bachelor's in Comp
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 - 📫 Reach me at **prajuncs@gmail.com**
 - ⚡ I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, gaming and traveling
-- 🏋️‍ I love to play soccer ⚽️ , volleyball 🏐 , and table tennis 🏓
+- 🏋️‍ I love to play soccer ⚽️ , volleyball 🏐 , and table tennis 🏓.
 - <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I loved to solve [Leetcode](https://leetcode.com/prajun_t/)  problems in my free time. My [Progress](https://github.com/prajun77/Leetcode) so far<br>
 
 <p align="center">
