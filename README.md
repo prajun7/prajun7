@@ -5,7 +5,7 @@
 <div align="center">
   
 <!-- COMMENTED OUT [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=blue&size=35&center=true&vCenter=true&width=650&lines=I'm+a+Software+Engineer;Always+willing+to+learn+new+skills;I+like+to+solve+DSA+problems;MERN+Stack;Leetcode)](https://git.io/typing-svg) 
-</div> -->
+</div>  -->
 
 I want to gain more real-life coding experience by working on various projects. And I am interested in collaborating with other developers.
 
