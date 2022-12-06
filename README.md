@@ -1,6 +1,6 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> <strong>Hi, I’m Prajun Trital </strong>
-</div>
+</div> 
 
 <div align="center">
   
