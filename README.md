@@ -3,7 +3,7 @@
 </div> 
 
 <div align="center">
-  
+   
 <!-- COMMENTED OUT [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=blue&size=35&center=true&vCenter=true&width=650&lines=I'm+a+Software+Engineer;Always+willing+to+learn+new+skills;I+like+to+solve+DSA+problems;MERN+Stack;Leetcode)](https://git.io/typing-svg) 
 </div> -->
 
