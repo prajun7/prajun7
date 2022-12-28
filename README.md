@@ -54,7 +54,8 @@ Graduated from the University of Alabama at Birmingham with a Bachelor's in Comp
 ![badge-flask](https://img.shields.io/badge/framework-flask-00FFFD?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
 <!-- COMMENTED OUT ![badge-node](https://img.shields.io/badge/code-node_js-00FFFD?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e) -->
 
-![badge-postgresql](https://img.shields.io/badge/database-postgresql-00FFFD?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
+<!-- ![badge-postgresql](https://img.shields.io/badge/database-postgresql-00FFFD?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e) -->
+![badge-sql](https://img.shields.io/badge/database-sql-00FFFD?style=for-the-badge&logo=sql&logoColor=white&labelColor=21223e)
 ![badge-mongo](https://img.shields.io/badge/database-mongodb-00FFFD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=21223e)
 
 <!-- ![badge-mac](https://img.shields.io/badge/os-mac-00FFFD?style=for-the-badge&logo=apple&logoColor=white&labelColor=21223e) -->
