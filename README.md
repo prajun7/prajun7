@@ -1,7 +1,7 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> <strong>Hi, I’m Prajun Trital </strong>
 </div> 
-
+ 
 <div align="center"> 
    
 <!-- COMMENTED OUT [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=blue&size=35&center=true&vCenter=true&width=650&lines=I'm+a+Software+Engineer;Always+willing+to+learn+new+skills;I+like+to+solve+DSA+problems;MERN+Stack;Leetcode)](https://git.io/typing-svg) 
