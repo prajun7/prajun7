@@ -62,6 +62,8 @@ Graduated from the University of Alabama at Birmingham with a Bachelor's in Comp
 
 <!-- ![badge-mac](https://img.shields.io/badge/os-mac-00FFFD?style=for-the-badge&logo=apple&logoColor=white&labelColor=21223e) -->
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-00FFFD?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
+![badge-intelliJ](https://img.shields.io/badge/editor-intelliJ-00FFFD?style=for-the-badge&logo=intelliJ&logoColor=white&labelColor=21223e)
+
 <!-- COMMENTED OUT AWS BADGE ![badge-aws](https://img.shields.io/badge/cloud-aws-00FFFD?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e) -->
 
 <!-- COMMENTED OUT ## 🏆 GitHub Trophy
